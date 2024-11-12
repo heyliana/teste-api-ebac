@@ -7,7 +7,7 @@ Listagem de usuários já cadastrados </br>
 Falha ao cadastrar usuário com email inválido </br>
 Edição de usuário já cadastrado </br>
 Exclusão de um usuário cadastrado </br>
-```
+</br>
 ### Base de teste
 https://github.com/EBAC-QE/teste-api-ebac.git
 
