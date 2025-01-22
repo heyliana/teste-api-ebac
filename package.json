@@ -8,7 +8,7 @@
     "cy:run": "npx cypress run"
   },
   "keywords": [],
-  "author": "Ana Larissa",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.6.0",
